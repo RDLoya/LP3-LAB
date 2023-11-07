@@ -17,3 +17,10 @@ public class Fibonacci_Iterative
         }
     }
 }
+
+//Time complexity is O(n)
+//Space complexity is O(1)
+
+// Enter nth value of fibonacci number
+// 5
+// 0 1 1 2 3
