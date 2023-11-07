@@ -55,3 +55,9 @@ public class ZOKnapsack
 
 
 //Time and Space complexity is O(n*cap)
+
+// Enter the number of items: 5
+// Enter the values of the items:15 14 10 45 30
+// Enter the weights of the items:2 5 1 3 4
+// Enter the capacity of the knapsack: 7
+// The maximum value that can be obtained is: 75
