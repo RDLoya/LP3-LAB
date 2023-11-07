@@ -22,3 +22,10 @@ public class Fibonacci_Recursive
         }
     }
 }
+
+// Time complexity is O(2^n)
+// Space Complexity is O(n)
+
+// Enter the nth value
+// 5
+//  0 1 1 2 3 5
