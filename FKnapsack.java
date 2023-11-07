@@ -94,3 +94,9 @@ public class FKnapsack
 }
 
 //Time complexity is O(n) and space complexity is O(n^2)
+
+// Please enter the value: 10
+// Please enter 10 values separated by spaces: 33 14 50 9 8 11 6 40 2 15
+// Please enter 10 weights separated by spaces: 7 2 5 9 3 2 1 10 3 3
+// Please enter the capacity: 5
+// 50.0
