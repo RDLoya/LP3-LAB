@@ -69,3 +69,17 @@ public class Huffman_Coding {
     }
 }
 //Time complexity is O(n logn) and Space complexity is O(n)
+
+// Enter the number of characters: 5
+// Enter characters and their frequencies:
+// A 5
+// B 9
+// C 12
+// D 13
+// E 16
+// Huffman Codes are:
+// C -> 00
+// D -> 01
+// A -> 100
+// B -> 101
+// E -> 11
