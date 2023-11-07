@@ -78,3 +78,12 @@ public class NQueen {
         }
     }
 }
+
+//Time complexity if O(n!) and Space complexity is O(n^2)
+// Enter the value of n: 5
+// Solution found:
+// Q . . . .
+// . . . Q .
+// . Q . . .
+// . . . . Q
+// . . Q . .
