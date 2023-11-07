@@ -71,3 +71,11 @@ public class QuickSort {
 //Time complexity for Deterministic Quick Sort is O(n^2)
 //Time complexity for Randomized Quick Sort is O(n logn)
 //Space complexity for both is O(log n)
+
+// Enter the elements:
+// 5 1 9 3 7 6 8 2 4
+// Original Array: [5, 1, 9, 3, 7, 6, 8, 2, 4]
+// Deterministic Quick Sort Result: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+// Time taken for deterministic variant: 11600 nanoseconds
+// Randomized Quick Sort Result: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+// Time taken for randomized variant: 612900 nanoseconds
